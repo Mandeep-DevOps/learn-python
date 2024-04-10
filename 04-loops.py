@@ -14,5 +14,5 @@ while i >0:
 
 fruits = ["apple", "banana", "orange"]
 print(enumerate(fruits))
-for index, fruit in fruits:
+for index, fruit in enumerate(fruits):
   print(f"Index - {index} Fruit name - {fruit}")
