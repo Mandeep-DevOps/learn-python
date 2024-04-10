@@ -23,7 +23,9 @@ print(name)
 
 
 def sample3():
+  y=20
   print(x)
 
 x = 10
 sample3()
+print(y)
