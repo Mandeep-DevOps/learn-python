@@ -42,4 +42,6 @@ print(m)
 m["fee"] = 100
 print(m)
 
-t[3] = 110
+#t[3] = 110
+
+print(l[0:2])
