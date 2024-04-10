@@ -38,7 +38,7 @@ print(fruits)
 fruits.append("orange")
 print(fruits)
 
-print(course)
-course["fee"] = 100
-print(course)
+print(m)
+m["fee"] = 100
+print(m)
 
