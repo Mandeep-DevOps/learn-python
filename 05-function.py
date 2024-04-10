@@ -16,4 +16,4 @@ def namePrint(firstname, lastname):
   print(f"Hello {f},{l}")
 
 namePrint("john", "wesley")
-namePrint("wesley", "john")
+namePrint(lastname="wesley", firstname="john")
