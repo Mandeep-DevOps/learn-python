@@ -17,3 +17,6 @@ def namePrint(firstname, lastname):
 
 namePrint("john", "wesley")
 namePrint(lastname="wesley", firstname="john")
+
+name=namePrint(lastname="wesley", firstname="john")
+print(name)
