@@ -17,7 +17,7 @@ m = {"course" : "DevOps", "timings": "6am"}
 # All the above variables are mutable
 
 # Immutables are Tuple
-t = [1,2,3]
+t = (1,2,3)
 
 # Sets
 s = {1,2,3,3}
