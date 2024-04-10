@@ -46,3 +46,8 @@ print(m)
 
 print(l[1:3])
 print(l[:3])
+
+multiline = """Line1
+Line2
+"""
+print(multiline)
