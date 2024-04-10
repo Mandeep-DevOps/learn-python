@@ -9,7 +9,7 @@ for fruit in fruits:
 # while loop
 i = 5
 while i >0:
-  print(f('Iteration - {i}')
-  i = i -1 
+  print(f'Iteration - {i}')
+  i = i -1
 
 
