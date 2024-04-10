@@ -13,10 +13,10 @@ sample1(30,20)
 def namePrint(firstname, lastname):
   f = firstname.title()
   l = lastname.title()
-  print(f"Hello {f},{l}")
+  return "Hello {f},{l}"
 
 namePrint("john", "wesley")
 namePrint(lastname="wesley", firstname="john")
 
-name=namePrint(lastname="wesley", firstname="john")
+name = namePrint(lastname="wesley", firstname="john")
 print(name)
