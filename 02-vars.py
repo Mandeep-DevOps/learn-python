@@ -32,3 +32,8 @@ print(t[2])
 print("Value in Tuple - " + str(t[2]) )
 print(f"Value in Tuple - {t[2]}" )
 print(f"course name - {m['course']}")
+
+fruits = ["apple", "banana"]
+print(fruits)
+fruits.append("orange")
+print(fruits)
