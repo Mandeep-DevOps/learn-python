@@ -45,3 +45,4 @@ print(m)
 #t[3] = 110
 
 print(l[1:3])
+print(l[:3])
