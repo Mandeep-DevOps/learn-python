@@ -23,7 +23,7 @@ print(name)
 
 
 def sample3():
-  print x
+  print(x)
 
 x = 10
 sample3()
