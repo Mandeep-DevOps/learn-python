@@ -20,3 +20,10 @@ namePrint(lastname="wesley", firstname="john")
 
 name = namePrint(lastname="wesley", firstname="john")
 print(name)
+
+
+def sample3():
+  print x
+
+x = 10
+sample3()
