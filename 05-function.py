@@ -23,7 +23,7 @@ print(name)
 
 
 def sample3():
-  y=20
+  global y=20
   print(x)
 
 x = 10
