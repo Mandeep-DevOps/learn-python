@@ -16,3 +16,13 @@ fruits = ["apple", "banana", "orange"]
 print(enumerate(fruits))
 for index, fruit in enumerate(fruits):
   print(f"Index - {index} Fruit name - {fruit}")
+
+
+fruits = ["apple", "banana", "orange"]
+quantity = [ 10, 20 , 10]
+
+for fruit, quan in zip(fruits, quantity):
+  print(f"Fruit - {fruit} Quantity - {quan}")
+
+
+
