@@ -23,6 +23,7 @@ print(name)
 
 
 def sample3():
+  global x
   x= x + 10
   print(x)
 
